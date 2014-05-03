@@ -1,6 +1,3 @@
 SeanLiApp
 =========
-
-just example
-
-中文
+一个Codeblocks例子
